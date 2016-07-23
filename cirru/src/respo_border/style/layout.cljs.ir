@@ -1,0 +1,8 @@
+
+[
+[ "ns" "respo-border.style.layout" ]
+[ "def" "cell" [ "{}" [ ":padding" "|0 8px" ] [ ":line-height" "2" ] ] ]
+[ "def" "area" [ "{}" [ ":margin" "64" ] ] ]
+[ "def" "row" [ "{}" [ ":display" "|flex" ] [ ":flex-direction" "|row" ] ] ]
+[ "def" "column" [ "{}" [ ":display" "|flex" ] [ ":flex-direction" "|column" ] ] ]
+]
